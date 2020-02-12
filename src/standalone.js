@@ -77,10 +77,10 @@ export function checkLevel(Tamagotchi) {
       let evolvedImg = "https://cdn.bulbagarden.net/upload/thumb/7/73/002Ivysaur.png/250px-002Ivysaur.png";
       $("#choiceImg").attr('src', evolvedImg);
     } else if (Tamagotchi.level >= 20 && Tamagotchi.name === "squirtle") {
-      let finalImg = "https://pokemon.gameinfo.io/images/pokemon-go/009-00.png";
+      let finalImg = "https://assets.pokemon.com/assets/cms2/img/pokedex/full/009.png";
       $("#choiceImg").attr('src', finalImg);
     } else if (Tamagotchi.level >= 20 && Tamagotchi.name === "charmander") {
-      let finalImg = "https://assets.pokemon.com/assets/cms2/img/pokedex/full/006_f3.png";
+      let finalImg = "https://vignette.wikia.nocookie.net/jadensadventures/images/9/97/Charizard-0.png/revision/latest/scale-to-width-down/340?cb=20161018184401";
       $("#choiceImg").attr('src', finalImg);
     } else if (Tamagotchi.level >= 20 && Tamagotchi.name === "bulbasaur") {
       let finalImg = "https://assets.pokemon.com/assets/cms2/img/pokedex/full/003.png";
