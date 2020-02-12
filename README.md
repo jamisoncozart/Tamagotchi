@@ -1,12 +1,12 @@
-# _Tamagotchi_
+# _Pokégotchi_
 
 #### _Asynchrony and APIs practice for Epicodus_, _10 Feb. 2020_
 
-#### By _**Michelle Morin, Jamison Cozart**_
+#### By _**Jamison Cozart, Michelle Morin**_
 
 ## Description
 
-_This application..._
+_This application simulates taking care of a pokemon, making sure it gets enough sleep, eats enough food, and gets enough play time. The projects focused on learning and understanding asynchrony, as well as setTimeout and setInterval functions._
 
 ## Specifications:
 
@@ -48,24 +48,36 @@ _Please visit the [Node.js website](https://nodejs.org/en/download/) for install
 
 #### Install this application
 
-_Clone this repository via Terminal using the following commands:_
-* _$ cd desktop_
-* _$ git clone {url to this directory}_
-* _$ cd {directory name}_
-_Then, confirm that you have navigated to this project directory by entering "pwd" in Terminal._
-
-_Next, install npm at the project's root directory via the following commands:_
-* _$ npm install_
-* _$ npm run build_
-
-_Open the contents of the directory in a text editor or IDE of your choice (e.g., to open the contents of the directory in Visual Studio Code on macOS, enter the command "code ." in Terminal)._
+1. Clone the repository into preferred directory:
+    ```
+    git clone https://github.com/jamisoncozart/Tamagotchi
+    ```
+2. Change directories into the project directory:
+    ```
+    cd Tamagotchi/
+    ```
+2. Install all dependencies listed in the package.json:
+    ```
+    npm install
+    ```
+3. Run the start script to Lint, Build, and Start the live server, and the webpage will open automatically in your default web browser
+    ```
+    npm run start
+    ```
 
 ## Technologies Used
 
-_Git, HTML, CSS, JavaScript, jQuery, npm, webpack, Jest_
+* HTML
+* CSS
+* Javascript
+* Webpack
+* Jest
+* Git
+* Babel
+* ESLint
 
 ### License
 
 *This webpage is licensed under the MIT license.*
 
-Copyright (c) 2020 **_Michelle Morin, Jamison Cozart_**
+Copyright (c) 2020 **_Jamison Cozart, Michelle Morin_**
