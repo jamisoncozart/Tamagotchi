@@ -2,7 +2,7 @@
 
 #### _Asynchrony and APIs practice for Epicodus_, _10 Feb. 2020_
 
-#### By _**Jamison Cozart, Michelle Morin**_
+#### By _**Jamison Cozart, Michelle Morin, Todd Walraven**_
 
 ## Description
 
@@ -80,4 +80,4 @@ _Please visit the [Node.js website](https://nodejs.org/en/download/) for install
 
 *This webpage is licensed under the MIT license.*
 
-Copyright (c) 2020 **_Jamison Cozart, Michelle Morin_**
+Copyright (c) 2020 **_Jamison Cozart, Michelle Morin, Todd Walraven_**
