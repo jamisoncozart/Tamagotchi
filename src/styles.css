@@ -1,21 +1,20 @@
 html {
-  height: 100%;
+  height: 100vh;
 }
 
 body {
   text-align: center;
-  height: 100%;
+  height: 100vh;
   font-family: Georgia, 'Times New Roman', Times, serif;
   background-image: url("https://pics.freeartbackgrounds.com/midle/Green_Grass_Texture-435.jpg");
   background-size: cover;
   background-position: center;
-  background-repeat: no-repeat;
 }
 
 #game, #death {
   display: none;
   border: 2px solid #111111;
-  margin-top: 5%;
+  margin-top: 2%;
   border-radius: 10px;
 }
 
@@ -32,7 +31,7 @@ body {
 }
 
 #statuses {
-  margin-top: 20%;
+  margin-top: 10%;
   margin-bottom: 5%;
   margin-left: 5%;
   margin-right: 5%;
